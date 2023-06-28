@@ -1,4 +1,15 @@
-## Hi there 👋
+# Vision-Language @ CAMP, TUM
+
+Welcome to the Vision-Language Group of the Chair for [Computer-Aided Medical Procedures & Augmented Reality (CAMP)](https://www.cs.cit.tum.de/camp) of [Prof. Dr. Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/) at the [Technical University of Munich (TUM)](https://www.tum.de/). Our team investigates the synergy between natural language processing (NLP), computer vision, and deep learning, particularly in the medical field.
+
+We focus on creating solutions that analyze and interpret medical images and articulate these findings clearly for medical professionals, thereby enhancing diagnosis accuracy and patient outcomes. Our research spans across areas like radiology report generation, semantic explanations, and structured reporting.
+
+## Recent works
+
+| Year | Title | Authors | Publication | Code |
+|-----------------|-------|---------|----------|---|
+| 2023 | [Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis](https://arxiv.org/pdf/2303.13391.pdf) | Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab | MICCAI 2023 | [![](https://img.shields.io/badge/ChantalMP/Xplainer-grey?logo=github)]() |
+| 2023 | [FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays](https://arxiv.org/abs/2203.15723) | Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab | MIDL 2023 | - |
 
 <!--
 

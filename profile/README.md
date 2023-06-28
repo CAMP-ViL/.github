@@ -8,7 +8,7 @@ We focus on creating solutions that analyze and interpret medical images and art
 
 | Year | Title | Authors | Publication | Code |
 |-----------------|-------|---------|----------|---|
-| 2023 | [Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis](https://arxiv.org/pdf/2303.13391.pdf) | Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab | MICCAI 2023 | [![](https://img.shields.io/badge/ChantalMP/Xplainer-grey?logo=github)]() |
+| 2023 | [Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis](https://arxiv.org/pdf/2303.13391.pdf) | Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab | MICCAI 2023 | [![](https://img.shields.io/badge/Xplainer-grey?logo=github)]() |
 | 2023 | [FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays](https://arxiv.org/abs/2203.15723) | Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab | MIDL 2023 | - |
 
 <!--

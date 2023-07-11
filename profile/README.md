@@ -10,7 +10,7 @@ We focus on creating solutions that analyze and interpret medical images and art
 |-----------------|-------|---------|----------|---|
 | 2023 | [Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis](https://arxiv.org/pdf/2303.13391.pdf) | Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab | MICCAI 2023 | [![](https://img.shields.io/badge/Xplainer-grey?logo=github)](https://github.com/ChantalMP/Xplainer) |
 | 2023 | [Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays](https://arxiv.org/abs/2303.13818) | Yiheng Xiong, Jingsong Liu, Kamilia Zaripova, Sahand Sharifzadeh, Matthias Keicher, Nassir Navab | preprint | - |
-| 2023 | [FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays](https://arxiv.org/abs/2203.15723) | Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab | MIDL 2023 | - |
+| 2023 | [FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays](https://arxiv.org/abs/2203.15723) | Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab | MIDL 2023 | [![](https://img.shields.io/badge/FlexR-grey?logo=github)](https://github.com/mkeicher/FlexR) |
 
 <!--
 

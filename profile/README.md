@@ -8,10 +8,10 @@ We focus on creating solutions that analyze and interpret medical images and art
 
 | Year | Title | Authors | Publication | Code |
 |-----------------|-------|---------|----------|---|
-| 2023 | [Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting](https://arxiv.org/abs/2307.05766) | Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Nassir Navab | MICCAI 2023 | [![](https://img.shields.io/badge/RadReStruct-grey?logo=github)](https://github.com/ChantalMP/Rad-ReStruct) |
-| 2023 | [Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis](https://arxiv.org/pdf/2303.13391.pdf) | Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab | MICCAI 2023 | [![](https://img.shields.io/badge/Xplainer-grey?logo=github)](https://github.com/ChantalMP/Xplainer) |
+| 2023 | [Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting](https://arxiv.org/abs/2307.05766) | Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Nassir Navab | [MICCAI 2023](https://conferences.miccai.org/2023/) | [![](https://img.shields.io/badge/RadReStruct-grey?logo=github)](https://github.com/ChantalMP/Rad-ReStruct) |
+| 2023 | [Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis](https://arxiv.org/pdf/2303.13391.pdf) | Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab | [MICCAI 2023](https://conferences.miccai.org/2023/) | [![](https://img.shields.io/badge/Xplainer-grey?logo=github)](https://github.com/ChantalMP/Xplainer) |
 | 2023 | [Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays](https://arxiv.org/abs/2303.13818) | Yiheng Xiong, Jingsong Liu, Kamilia Zaripova, Sahand Sharifzadeh, Matthias Keicher, Nassir Navab | [GRAIL @ MICCAI 2023](https://grail-miccai.github.io/#program) | [![](https://img.shields.io/badge/RadGraphFormer-grey?logo=github)](https://github.com/xiongyiheng/Prior-RadGraphFormer) |
-| 2022 | [FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays](https://arxiv.org/abs/2203.15723) | Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab | MIDL 2023 | [![](https://img.shields.io/badge/FlexR-grey?logo=github)](https://github.com/mkeicher/FlexR) |
+| 2022 | [FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays](https://arxiv.org/abs/2203.15723) | Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab | [MIDL 2023](https://2023.midl.io/) | [![](https://img.shields.io/badge/FlexR-grey?logo=github)](https://github.com/mkeicher/FlexR) |
 
 <!--
 
